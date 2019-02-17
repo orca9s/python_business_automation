@@ -12,6 +12,9 @@ tablib = "*"
 openpyxl = "*"
 requests = "*"
 pyyaml = "*"
+pyyaml4-2b1 = "*"
+pyyaml4-2 = "*"
+pyyaml4 = "*"
 
 [requires]
 python_version = "3.6"
